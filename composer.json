@@ -1,0 +1,12 @@
+{
+    "name": "marcela/desafio",
+    "description": "desafio php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marcela"
+        }
+    ],
+    "require": {}
+}
