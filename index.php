@@ -44,16 +44,16 @@
 
           switch(@$_REQUEST["page"]) {
             case "new":
-              include("newUser.php");
+              include("src/newUser.php");
             break;
             case "list":
-              include("userList.php");
+              include("src/userList.php");
             break;
             case "save":
-              include("postUsers.php");
+              include("src/postUsers.php");
             break;
             case "update":
-              include("updateUser.php");
+              include("src/updateUser.php");
             break;
 
             default:
